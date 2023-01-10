@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniela Lima</h1>
 <h3 align="center">I am a Technology in Systems Analysis and Development student</h3>
 
+<br>
+
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **dani7fl7@gmail.com**
