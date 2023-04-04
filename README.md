@@ -1,4 +1,4 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://dani7fl7.github.io/profile/">Daniela</a></h2>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://dani7fl7.github.io/profile/">Daniela Lima</a></h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/daniela-lima7/">LinkedIN</a> 
 
@@ -21,7 +21,7 @@
 
  <br>
 
-📈 My Github stats <br />
+📈 **My Github stats** <br />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani7fl7&langs_count=8&layout=compact&theme=radical" />  
   <br />
