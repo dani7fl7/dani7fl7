@@ -8,7 +8,7 @@
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 
-<h3 align="center">I am a Technology in Systems Analysis and Development student</h3>
+<h3 align="center">I am a Technology in Systems Analysis and Development student</h3> <br />
 
 - 🌱 I’m currently learning **React**
 
