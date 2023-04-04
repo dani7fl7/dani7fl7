@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dani7fl7@gmail.com**
 
-- 📄 Know about my experiences **http://lattes.cnpq.br/0773685293587354**
+- 📄 Know about my experiences <a href="http://lattes.cnpq.br/0773685293587354)/">Lattes</a>
 
 ***
 
