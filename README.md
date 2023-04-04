@@ -34,6 +34,8 @@
 
 <br>
 
+![Snake animation](https://github.com/dani7fl7/dani7fl7/blob/output/github-contribution-grid-snake.svg)
+
 
 ***
 **Languages and Tools**
