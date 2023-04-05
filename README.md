@@ -12,9 +12,10 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **dani7fl7@gmail.com**
+- 📫 How to reach me: **dani7fl7@gmail.com**
 
-- 📄 Know about my experiences <a href="http://lattes.cnpq.br/0773685293587354)/">Lattes</a>
+- 📄 Know about my <a href="http://lattes.cnpq.br/0773685293587354)/" >experiences </a>
+
 
 ***
 
@@ -22,10 +23,13 @@
 
 
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h2 align="center" style="margin: 5px 10px;">Stats</h2> 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani7fl7&langs_count=8&layout=compact&theme=radical" />  
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani7fl7&langs_count=8&layout=compact&theme=radical" />  
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=dani7fl7&theme=radical&show_icons=true"/>
+
+  
   <br />
   <br />
 
@@ -39,8 +43,9 @@
 ***
 
 
-<br />
 
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Tools</h2> 
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -109,7 +114,8 @@
 
 ----
 
-<h3 align="center">Connect with me</h3>
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Connect with me</h2> 
 
 <div style="margin-top:10px" align="center">
     <a  href="https://www.linkedin.com/in/daniela-lima7/" target="_blank">
