@@ -118,7 +118,7 @@
 <h2 align="center" style="margin: 5px 10px;">Connect with me</h2> 
 
 <div style="margin-top:10px" align="center">
-    <a  href="https://www.linkedin.com/in/daniela-lima7/" target="_blank">
+    <a  href="https://www.linkedin.com/in/daniela-lima-24601b276/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
   </div>
