@@ -10,10 +10,15 @@
 
 - 📄 Know about my <a href="http://lattes.cnpq.br/0773685293587354" >experiences </a>
 
-***
+- <a  href="https://www.linkedin.com/in/daniela-lima-24601b276/" target="_blank">
+        <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+      </a>
 
-<h2 align="center">Tools</h2> 
-<p align="center">
+
+<br>
+
+<h2 align="left">Languages and Tools</h2> 
+<p align="left">
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
       alt="java"/> 
@@ -34,10 +39,8 @@
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"/>
   </a>
-</p>
-  
-<p align="center">
-      <a href="https://getbootstrap.com" target="_blank">
+
+  <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
   </a>
@@ -47,16 +50,14 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ELanza-48" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="https://gitlab.com/Elanza-48" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
-</p>
 
-<p align="center"> 
   <a href="https://eclipse.org" target="_blank">
     <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
   </a>
@@ -68,21 +69,10 @@
   </a>
 </p>
 
-***
+<br>
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Connect with me</h2> 
-  <div style="margin-top:10px" align="center">
-      <a  href="https://www.linkedin.com/in/daniela-lima-24601b276/" target="_blank">
-        <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
-      </a>
-  </div>
-</div>
-
-***
-
-<h2 align="center" style="margin: 5px 10px;">Stats</h2> 
-<p align="center">
+<h2 align="left" style="margin: 5px 10px;">Stats</h2> 
+<p align="left">
   <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani7fl7&langs_count=8&layout=compact&theme=radical" />  
   <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=dani7fl7&theme=radical&show_icons=true"/>
 </p>
